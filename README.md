@@ -1,5 +1,7 @@
 # ColabFold
 
+Colab link : https://colab.research.google.com/github/ssun1116/ColabFold/blob/main/notebooks/AlphaFold.ipynb
+
 ```diff
 + 2022/07/13: We have set up a new ColabFold MSA server provided by Korean Bioinformation Center. 
 +             It provides accelerated MSA generation, we updated the UniRef30 to 2022_02 and PDB/PDB70 to 220313.
